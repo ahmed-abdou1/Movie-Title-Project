@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+#searchForm {
+    float: left;
+}
+
+#infoForm {
+    float: left;
+    clear: right;
+    margin-right: 100px;
+}
